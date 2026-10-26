@@ -1,0 +1,16 @@
+# Dependencies and builds
+node_modules/
+dist/
+dist-ssr/
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.local
+# Logs and editor files
+*.log
+.vscode/
+.idea/
+.DS_Store
+# Supabase local state
+supabase/.temp/

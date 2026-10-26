@@ -1,0 +1,7 @@
+project_id = "pqquectwmynooaychbed"
+
+[functions.ai-tutor]
+verify_jwt = false
+
+[functions.send-motivation-emails]
+verify_jwt = false
