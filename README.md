@@ -42,6 +42,37 @@ The repository was reviewed for structure but has **not** been built or integrat
 ## Notes
 This archive intentionally excludes `node_modules`, `dist`, temporary Supabase files and `.env`. Before public release, review any project-specific API credentials, authorization policies, external integrations and demo/test accounts. Do not commit Supabase service-role keys or other secrets.
 
+## Application Screenshots
+
+The screenshots below are taken from the PUSULA Smart Education Assistant graduation project report (2026). They document application interfaces and example workflows; availability of an online deployment is not implied.
+
+### Registration
+![Registration screen](docs/screenshots/01-registration.png)
+
+### Student dashboard
+![Student dashboard](docs/screenshots/02-student-dashboard.png)
+
+### Teacher dashboard
+![Teacher dashboard](docs/screenshots/03-teacher-dashboard.png)
+
+### AI-assisted tutoring
+![AI tutor interface](docs/screenshots/04-ai-tutor.png)
+![AI tutor example response](docs/screenshots/05-ai-tutor-response.png)
+
+### Course management
+![Course creation](docs/screenshots/06-create-course.png)
+![Join a course](docs/screenshots/07-join-course.png)
+![Course details](docs/screenshots/08-course-detail.png)
+
+### Quizzes
+![Quiz creation](docs/screenshots/09-create-quiz.png)
+![Quiz question screen](docs/screenshots/10-quiz-question.png)
+![Quiz results](docs/screenshots/11-quiz-result.png)
+
+### Notifications
+![Notification center](docs/screenshots/12-notification-center.png)
+
+
 ## Developer
 **İclal Çengel** — Computer Engineering & Software Engineering
 
